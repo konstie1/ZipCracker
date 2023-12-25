@@ -44,5 +44,3 @@ Notes
 
     Ensure that you have the necessary permissions to install Python packages and access the specified files.
     Use this tool responsibly and only on files for which you have the legal right to access the contents.
-
-Feel free to customize the instructions and description based on your specific tool's features and requirements.
